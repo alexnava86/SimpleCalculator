@@ -1,0 +1,27 @@
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Extra Exercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Extra Exercises\Chapter 07\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Nava\Documents\Projects\SimpleCalculator\Project.SimpleCalculator\obj\Debug\SimpleCalculator.pdb
